@@ -1,0 +1,240 @@
+{
+        "major" : 
+            {
+                "DisplayValues" : ["", "maj", "major"],
+                "Parent" : "",
+                "ChromaticValues" : [0, 4, 7],
+                "DiatonicValues" : ["root", "major3", "perfect5"]
+            },
+        "major6" : 
+            {
+                "DisplayValues" : ["6", "maj6", "major6"], 
+                "Parent" : "major", 
+                "ChromaticValues" : [0,4,7,9],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major6"]
+            }, 
+        "major7" : 
+            {
+                "DisplayValues" : ["maj7", "major7"],
+                "Parent" : "major",
+                "ChromaticValues" : [0,4,7,11],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major7"]
+            }, 
+        "major9" : 
+            {
+                "DisplayValues" : ["maj9", "major9"],
+                "Parent" : "major",
+                "ChromaticValues" : [0,4,7,14],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major9"]
+            },
+        "major11": 
+            {
+                "DisplayValues" : ["maj11", "major11"], 
+                "Parent" : "major", 
+                "ChromaticValues" : [0,4,7,17],
+                "DiatonicValues" : ["root", "major3", "perfect5", "perfect11"]
+            },
+        "major13" : 
+            {
+                "DisplayValues" : ["maj13", "major13"], 
+                "Parent" : "major", 
+                "ChromaticValues" : [0,4,7,21],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major13"]
+            },
+        "minor" : 
+            {
+                "DisplayValues" : ["min", "minor"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,3,7],
+                "DiatonicValues" : ["root", "minor3", "perfect5"]
+            },
+        "minor6"  :  
+            {
+                "DisplayValues" : ["min6", "minor6"], 
+                "Parent" : "minor", 
+                "ChromaticValues" : [0,3,7,9],
+                "DiatonicValues" : ["root", "minor3", "perfect5", "major6"]
+            }, 
+        "minor7" : 
+            {
+                "DisplayValues" : ["min7", "minor7"], 
+                "Parent" : "minor", 
+                "ChromaticValues" : [0,3,7,10],
+                "DiatonicValues" : ["root", "minor3", "perfect5", "minor7"]
+            },
+        "minor9" : 
+            {
+                "DisplayValues"  :  ["min9", "minor9"], 
+                "Parent" : "minor", 
+                "ChromaticValues" : [0,3,7,14],,
+                "DiatonicValues" : ["root", "minor3", "perfect5", "major9"]
+            },
+        "minor11" : 
+            {
+                "DisplayValues" : ["min11", "minor11"], 
+                "Parent" : "minor", 
+                "ChromaticValues" : [0,3,7,17],
+                "DiatonicValues" : ["root", "minor3", "perfect5", "perfect11"]
+            },
+        "minor13" : 
+            {
+                "DisplayValues" : ["min13", "minor13"], 
+                "Parent" : "minor", 
+                "ChromaticValues" : [0,3,7,20],
+                "DiatonicValues" : ["root", "minor3", "perfect5", "minor13"]
+            },
+        "sus" : 
+            {
+                "DisplayValues" : ["sus", "suspended"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,7],
+                "DiatonicValues" : ["root", "perfect5"]
+            },
+        "sus4" : 
+            {
+                "DisplayValues" : ["sus4", "suspended4"], 
+                "Parent" : "sus", 
+                "ChromaticValues" : [0,5,7],
+                "DiatonicValues" : ["root", "perfect4", "perfect5"]
+            },
+        "sus2" : 
+            {
+                "DisplayValues" : ["sus2", "suspended2"], 
+                "Parent" : "sus", 
+                "ChromaticValues" : [0,2,7],
+                "DiatonicValues" : ["root", "major2", "perfect5"]
+            },
+        "sus11" : 
+            {
+                "DisplayValues" : ["sus11", "suspended11"], 
+                "Parent" : "sus", 
+                "ChromaticValues" : [0,7,17],
+                "DiatonicValues" : ["root", "perfect11", "perfect5"]
+            },
+        "sus9" : 
+            {
+                "DisplayValues" : ["sus9", "suspended9"], 
+                "Parent" : "sus", 
+                "ChromaticValues" : [0,7,14],
+                "DiatonicValues" : ["root", "major9", "perfect5"]
+            },
+        "add" : 
+            {
+                "DisplayValues" : ["add"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,4,7],
+                "DiatonicValues" : ["root", "major3", "perfect5"]
+            },
+        "add2" : 
+            {
+                "DisplayValues" : ["add2"], 
+                "Parent" : "add", 
+                "ChromaticValues" : [0,2,4,7],
+                "DiatonicValues" : ["root", "major2", "major3", "perfect5"]
+            },
+        "add4" : 
+            {
+                "DisplayValues" : ["add4"], 
+                "Parent" : "add", 
+                "ChromaticValues" : [0,4,5,7],
+                "DiatonicValues" : ["root", "major3", "perfect4", "perfect5"]
+            },
+        "add6" : 
+            {
+                "DisplayValues" : ["add6"], 
+                "Parent" : "add", 
+                "ChromaticValues" : [0,4,7,9],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major6"]
+            },
+        "add9" : 
+            {
+                "DisplayValues" : ["add9"], 
+                "Parent" : "add", 
+                "ChromaticValues" : [0,4,7,14],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major9"]
+            },
+        "add11" : 
+            {
+                "DisplayValues" : ["add11"], 
+                "Parent" : "add", 
+                "ChromaticValues" : [0,4,7,17],
+                "DiatonicValues" : ["root", "major3", "perfect5", "perfect11"]
+            },
+        "add13" : 
+            {
+                "DisplayValues" : ["add13"], 
+                "Parent" : "add", 
+                "ChromaticValues" : [0,4,7,21],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major13"]
+            },
+        "5" : 
+            {
+                "DisplayValues" : ["5", "power", "powerchord", "pwr"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,7],
+                "DiatonicValues" : ["root", "perfect5"]
+            },
+        "6" : 
+            {
+                "DisplayValues" : ["6", "maj6", "major6"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,4,7,9],
+                "DiatonicValues" : ["root", "major3", "perfect5", "major6"]
+            },
+        "7" : 
+            {
+                "DisplayValues" : ["7", "dom7", "dominant7"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,4,7,10],
+                "DiatonicValues" : ["root", "major3", "perfect5", "minor7"]
+            },
+        "9" : 
+            {
+                "DisplayValues" : ["9", "dom9", "dominant9"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,4,7,10,14],
+                "DiatonicValues" : ["root", "major3", "perfect5", "minor7", "major9"]
+            }, 
+        "11" : 
+            {
+                "DisplayValues" : ["11"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,4,7,10,17],
+                "DiatonicValues" : ["root", "major3", "perfect5", "minor7", "perfect11"]
+            }, 
+        "13" : 
+            {
+                "DisplayValues" : ["13"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,4,7,10,21],
+                "DiatonicValues" : ["root", "major3", "perfect5", "minor7", "major13"]
+            }, 
+        "diminished" : 
+            {
+                "DisplayValues" : ["dim", "diminished"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,3,6],
+                "DiatonicValues" : ["root", "minor3", "diminished5"]
+            }, 
+        "diminished7" : 
+            {
+                "DisplayValues" : ["dim7", "diminished7"], 
+                "Parent" : "dim", 
+                "ChromaticValues" : [0,3,6,9],
+                "DiatonicValues" : ["root", "minor3", "diminished5", "diminished7"]
+            }, 
+        "halfdiminished" : 
+            {
+                "DisplayValues" : ["half-dim", "halfdim", "min7flat5"], 
+                "Parent" : "dim", 
+                "ChromaticValues" : [0,3,6,10],
+                "DiatonicValues" : ["root", "minor3", "diminished5", "minor7"]
+            }, 
+        "augmented" : 
+            {
+                "DisplayValues" : ["aug", "augmented"], 
+                "Parent" : "", 
+                "ChromaticValues" : [0,4,8],
+                "DiatonicValues" : ["root", "major3", "augmented5"]
+            }
+}

@@ -1,0 +1,87 @@
+{
+ "C" : 
+ {
+  "AbsNoteIndex" : 0,
+  "Enharmonic" : ["B#", "Dbb"]
+ },
+ "C#" : 
+ {
+  "AbsNoteIndex" : 1,
+  "Enharmonic" : ["Db"]
+ },
+ "Db" : 
+ {
+  "AbsNoteIndex" : 1,
+  "Enharmonic" : ["C#"]
+ },
+ "D" : 
+ {
+  "AbsNoteIndex" : 2,
+  "Enharmonic" : ["C##", "Ebb"]
+ },
+ "D#" : 
+ {
+  "AbsNoteIndex" : 3,
+  "Enharmonic" : ["Eb", "Fbb"]
+ },
+ "Eb" : 
+ {
+  "AbsNoteIndex" : 3,
+  "Enharmonic" : ["D#", "Fbb"]
+ },
+ "E" : 
+ {
+  "AbsNoteIndex" : 4,
+  "Enharmonic" : ["D##", "Fb"]
+ },
+ "F" : 
+ {
+  "AbsNoteIndex" : 5,
+  "Enharmonic" : ["E#", "Gbb"]
+ },
+ "F#" : 
+ {
+  "AbsNoteIndex" : 6,
+  "Enharmonic" : ["E##", "Gb"]
+ },
+ "Gb" : 
+ {
+  "AbsNoteIndex" : 6,
+  "Enharmonic" : ["F#", "E##"]
+ },
+ "G" : 
+ {
+  "AbsNoteIndex" : 7,
+  "Enharmonic" : ["F##", "Abb"]
+ },
+ "G#" : 
+ {
+  "AbsNoteIndex" : 8,
+  "Enharmonic" : ["Ab"]
+ },
+ "Ab" : 
+ {
+  "AbsNoteIndex" : 8,
+  "Enharmonic" : ["G#"]
+ },
+ "A" : 
+ {
+  "AbsNoteIndex" : 9,
+  "Enharmonic" : ["G##", "Bbb"]
+ },
+ "A#" : 
+ {
+  "AbsNoteIndex" : 10,
+  "Enharmonic" : ["Bb", "Cbb"]
+ },
+ "Bb" : 
+ {
+  "AbsNoteIndex" : 10,
+  "Enharmonic" : ["A#", "Cbb"]
+ },
+ "B" : 
+ {
+  "AbsNoteIndex" : 11,
+  "Enharmonic" : ["Cb", "A##"]
+ },
+}

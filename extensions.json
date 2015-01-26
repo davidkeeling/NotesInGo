@@ -1,0 +1,138 @@
+{
+        "add2" : 
+            {
+                "DisplayValues" : ["add2"], 
+                "ChromaticIndex" : 2,
+                "DiatonicIndex" : 2
+            },
+        "add4" : 
+            {
+                "DisplayValues" : ["add4"],
+                "ChromaticIndex" : 5,
+                "DiatonicIndex" : 4
+            }, 
+        "add6" : 
+            {
+                "DisplayValues" : ["add6"],
+                "ChromaticIndex" : 9,
+                "DiatonicIndex" : 6
+            },
+        "add9" : 
+            {
+                "DisplayValues" : ["add9"],
+                "ChromaticIndex" : 14,
+                "DiatonicIndex" : 2
+            },
+        "add11" : 
+            {
+                "DisplayValues" : ["add11"],
+                "ChromaticIndex" : 17,
+                "DiatonicIndex" : 4
+            },
+        "add13" : 
+            {
+                "DisplayValues" : ["add13"],
+                "ChromaticIndex" : 21,
+                "DiatonicIndex" : 6
+            },
+        "sus2" : 
+            {
+                "DisplayValues" : ["sus2"], 
+                "ChromaticIndex" : 2, 
+                "DiatonicIndex" : 2,
+                "Replaces" : [3,4]
+            },
+        "sus4" : 
+            {
+                "DisplayValues" : ["sus4"], 
+                "ChromaticIndex" : 5,
+                "DiatonicIndex" : 4,
+                "Replaces" : [3,4]
+            },
+        "sus9" : 
+            {
+                "DisplayValues" : ["sus9"], 
+                "ChromaticIndex" : 14, 
+                "DiatonicIndex" : 2,
+                "Replaces" : [3,4]
+            },
+        "sus11" : 
+            {
+                "DisplayValues" : ["sus11"], 
+                "ChromaticIndex" : 17,
+                "DiatonicIndex" : 4,
+                "Replaces" : [3,4]
+            },
+        "no3" : 
+            {
+                "DisplayValues" : ["no3"], 
+                "ChromaticIndex" : 0, 
+                "DiatonicIndex" : 1,
+                "Replaces" : [3,4]
+            },
+        "no5" : 
+            {
+                "DisplayValues" : ["no5"], 
+                "ChromaticIndex" : 0,
+                "DiatonicIndex" : 1,
+                "Replaces" : [7]
+            },
+        "flat5" : 
+            {
+                "DisplayValues" : ["flat5"], 
+                "ChromaticIndex" : 6,
+                "DiatonicIndex" : 5,
+                "Replaces" : [7]
+            },
+        "sharp5" : 
+            {
+                "DisplayValues" : ["sharp5"],
+                "ChromaticIndex" : 8,
+                "DiatonicIndex" : 5,
+                "Replaces" : [7]
+            },
+        "flat6" : 
+            {
+                "DisplayValues" : ["flat6"],
+                "ChromaticIndex" : 8,
+                "DiatonicIndex" : 6,
+                "Replaces" : [9]
+            },
+        "maj7" : 
+            {
+                "DisplayValues" : ["maj7"],
+                "ChromaticIndex" : 11,
+                "DiatonicIndex" : 7
+            },
+        "min7" : 
+            {
+                "DisplayValues" : ["min7"],
+                "ChromaticIndex" : 10,
+                "DiatonicIndex" : 7
+            },
+        "flat9" : 
+            {
+                "DisplayValues" : ["flat9"],
+                "ChromaticIndex" : 13,
+                "DiatonicIndex" : 2
+            },
+        "sharp9" : 
+            {
+                "DisplayValues" : ["sharp9"],
+                "ChromaticIndex" : 15,
+                "DiatonicIndex" : 2
+            },
+        "sharp11" : 
+            {
+                "DisplayValues" : ["sharp11"], 
+                "ChromaticIndex" : 18,
+                "DiatonicIndex" : 4,
+                "Replaces" : [5,17]
+            },
+        "flat13" : 
+            {
+                "DisplayValues" : ["flat13"],
+                "ChromaticIndex" : 20,
+                "DiatonicIndex" : 6
+            } 
+    }

@@ -1,0 +1,107 @@
+{
+ "root" : 
+ {
+  "RelNoteIndex" : 0,
+  "DiatonicInterval" : 1,
+  "MajorDiatonic" : true,
+  "MinorDiatonic" : true
+ },
+ "minor2" : 
+ {
+  "RelNoteIndex" : 1,
+  "DiatonicInterval" : 2,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : false
+ },
+ "major2" : 
+ {
+  "RelNoteIndex" : 2,
+  "DiatonicInterval" : 2,
+  "MajorDiatonic" : true,
+  "MinorDiatonic" : true
+ },
+ "minor3" : 
+ {
+  "RelNoteIndex" : 3,
+  "DiatonicInterval" : 3,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : true
+ },
+ "major3" : 
+ {
+  "RelNoteIndex" : 4,
+  "DiatonicInterval" : 3,
+  "MajorDiatonic" : true,
+  "MinorDiatonic" : false
+ },
+ "perfect4" : 
+ {
+  "RelNoteIndex" : 5,
+  "DiatonicInterval" : 4,
+  "MajorDiatonic" : true,
+  "MinorDiatonic" : true
+ },
+ "augmented4" : 
+ {
+  "RelNoteIndex" : 6,
+  "DiatonicInterval" : 4,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : false
+ },
+ "diminished5" : 
+ {
+  "RelNoteIndex" : 6,
+  "DiatonicInterval" : 5,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : false
+ },
+ "perfect5" : 
+ {
+  "RelNoteIndex" : 7,
+  "DiatonicInterval" : 5,
+  "MajorDiatonic" : true,
+  "MinorDiatonic" : true
+ },
+ "augmented5" : 
+ {
+  "RelNoteIndex" : 8,
+  "DiatonicInterval" : 5,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : false
+ },
+ "minor6" : 
+ {
+  "RelNoteIndex" : 8,
+  "DiatonicInterval" : 6,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : true
+ },
+ "major6" : 
+ {
+  "RelNoteIndex" : 9,
+  "DiatonicInterval" : 6,
+  "MajorDiatonic" : true,
+  "MinorDiatonic" : true
+ },
+ "augmented6" : 
+ {
+  "RelNoteIndex" : 10,
+  "DiatonicInterval" : 6,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : false
+ },
+ "minor7" : 
+ {
+  "RelNoteIndex" : 10,
+  "DiatonicInterval" : 7,
+  "MajorDiatonic" : false,
+  "MinorDiatonic" : true
+ },
+ "major7" : 
+ {
+  "RelNoteIndex" : 11,
+  "DiatonicInterval" : 7,
+  "MajorDiatonic" : true,
+  "MinorDiatonic" : true
+ },
+}
